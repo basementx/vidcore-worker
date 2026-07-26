@@ -1,1 +1,6 @@
-
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "vidcore-worker",
+  "main": "api/proxy.js",
+  "compatibility_date": "2026-07-26"
+}
